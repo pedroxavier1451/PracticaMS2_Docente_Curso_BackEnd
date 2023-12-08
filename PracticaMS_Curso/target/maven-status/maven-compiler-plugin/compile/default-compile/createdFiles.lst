@@ -1,0 +1,10 @@
+com\ups\PracticaMS_Curso\model\Curso.class
+com\ups\PracticaMS_Curso\services\CursoService.class
+com\ups\PracticaMS_Curso\services\DocenteService.class
+com\ups\PracticaMS_Curso\controller\DocenteControlador.class
+com\ups\PracticaMS_Curso\PracticaMsCursoApplication.class
+com\ups\PracticaMS_Curso\repository\DocenteRepository.class
+com\ups\PracticaMS_Curso\ServletInitializer.class
+com\ups\PracticaMS_Curso\controller\CursoControlador.class
+com\ups\PracticaMS_Curso\model\Docente.class
+com\ups\PracticaMS_Curso\repository\CursoRepository.class
